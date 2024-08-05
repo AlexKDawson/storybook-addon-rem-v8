@@ -137,4 +137,5 @@ nvm use lts/gallium
 
 - Code structure greatly inspired by [storybook-dark-mode](https://github.com/hipstersmoothie/storybook-dark-mode). I learned and adapted a lot ❤️
 - Kudos to [@storybook/a11y](https://github.com/storybookjs/storybook/tree/master/addons/a11y) repository for showing how to implement a storybook toolbar with a tooltip.
+- This project is a fork of [storybook-addon-rem](https://github.com/soelen/storybook-addon-rem/tree/master) written by [soelen](https://github.com/soelen/storybook-addon-rem/tree/master) with included changes by [alex1701c](https://github.com/alex1701c) to add storybook v8 support.
 
